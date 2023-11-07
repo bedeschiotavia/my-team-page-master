@@ -20,7 +20,7 @@
 
 ## Overview
 
-![mockup](https://github.com/bedeschiotavia/404-not-found-master/blob/main/mockuo404-notfound.png?raw=true)
+![mockup](https://github.com/bedeschiotavia/my-team-page-master/blob/ea16d614dbe47a1a249415438346be0dec03be9f/images/mockup-my-team-page.png)
 
 The challenge was to create a responsive My team page following the suggested design. I developed the page using simple HTML and CSS (Flexbox).
 
