@@ -6,7 +6,7 @@
 
 <div>
   <h3>
-    <a href="https://404-not-found-master-wheat.vercel.app/">
+    <a href="https://my-team-page-master-mu.vercel.app/">
       Solution
     </a>
     <span> | </span>
